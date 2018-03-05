@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Redux_Course Work - Instructor - Stephen Grider - Student - Don Bozarth
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
